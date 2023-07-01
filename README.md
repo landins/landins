@@ -1,5 +1,5 @@
 <h3>
-  <samp>HELLO, MY FRIEND!</samp>
+  <samp>HELLO, MY NAME IS LANDIN!</samp>
 </h3>
 
 <!-- ... -->
